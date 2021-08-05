@@ -1,0 +1,4 @@
+#Wed Apr 07 14:42:47 ICT 2021
+base.0=D\:\\Study\\LapTrinh\\haveFun\\FlappyBird\\FlappyBird\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

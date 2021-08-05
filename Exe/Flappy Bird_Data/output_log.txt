@@ -1,0 +1,38 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 710 (ID=0x128b)
+    Vendor:   NVIDIA
+    VRAM:     984 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.182 seconds
+Platform assembly: D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Study\LapTrinh\haveFun\Flappy bird Unity3D\Exe\Flappy Bird_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.230800 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.000400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 0.277600 ms (FindLiveObjects: 0.085700 ms CreateObjectMapping: 0.011700 ms MarkObjects: 0.174800 ms  DeleteObjects: 0.004800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.158600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 0.205700 ms (FindLiveObjects: 0.020800 ms CreateObjectMapping: 0.007100 ms MarkObjects: 0.173300 ms  DeleteObjects: 0.004100 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2100 -> priority: 1 
